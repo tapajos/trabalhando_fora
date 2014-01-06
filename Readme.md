@@ -2,7 +2,7 @@
 
 Praticamente toda semana eu e o [Caffo](http://twitter.com/caffo) recebemos emails com dúvidas de pessoas que estão planejando ou começando a trabalhar com empresas no exterior. Normalmente eu tento responder rapidamente porém com a correria do trabalho e da vida pessoal nem sempre isso é possível.
 
-Normalmente as perguntas são bem parecidas mas mesmo fazendo um "copy and paste" acabo demorando para responder. Sei que isso é bem ruim para quem manda o email mas até então era o melhor que eu podia fazer. Outro dia o [Caffo](http://twitter.com/caffo) me deu a ideia de escrever um FAQ/post sobre isso e resolvi que esse seria o meu presente de Natal para a comunidade de desenvolvedores.
+Normalmente as perguntas são bem parecidas, mas mesmo fazendo um "copy and paste" acabo demorando para responder. Sei que isso é bem ruim para quem manda o email, mas até então era o melhor que eu podia fazer. Outro dia o [Caffo](http://twitter.com/caffo) me deu a ideia de escrever um FAQ/post sobre isso e resolvi que esse seria o meu presente de Natal para a comunidade de desenvolvedores.
 
 Como esse artigo é de um desenvolvedor para outros desenvolvedores acho que não existe lugar melhor para publicar do que no [GitHub](http://github.com). Inicialmente eu pensei em por num [gist](http://gist.github.com) mas acho que um repositório torna a colaboração mais fácil. Sinta-se a vontade para mandar correções e/ou complementar as minhas informações.
 
