@@ -80,3 +80,7 @@ A nota fiscal não tem nenhum valor da a empresa de fora, não há necessidade d
 A [invoice](http://en.wikipedia.org/wiki/Invoice) é um tipo de fatura. Não existe nenhum mistério em gerar invoices, o único detalhe é que a numeração deverá ser única.
 
 Você pode usar até o Word para gerar esse documento. Eu utilizo e recomendo o [Blinksale](http://www.blinksale.com/).
+
+# Mais informações
+
+Eu e o Caffo, gravamos uma série no Grok Podcast falando sobre como é trabalhar remotamente para empresas no exterior, para quem se interessar: ["Trabalho Remoto – Parte 1 de 5"](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
