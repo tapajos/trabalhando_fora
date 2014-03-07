@@ -8,7 +8,7 @@ Como esse artigo é de um desenvolvedor para outros desenvolvedores acho que nã
 
 Tentei responder as perguntas mais frequentes e provavelmente muitas dúvidas foram esquecidas. Você pode usar o Issues para deixar sua dúvida, vou tentar responder o mais rápido possível.
 
-# Disclaimer
+## Disclaimer
 
 Esse artigo foi escrito baseado na minha experiência trabalhando com exportação de software desde 2008. As coisas mudam com uma certa frequência e não estou assumindo nenhum compromisso de manter esse artigo atualizado.
 
@@ -16,11 +16,11 @@ Eu não sou contador, não sou advogado tributarista e nem especialista em comé
 
 Se você não conhece nenhum advogado nessa área eu recomendo o Mauro Abdalla (21) 98775-7676.
 
-# Contratação
+## Contratação
 
 Só existe uma regra: TENHA UM CONTRATO entre você e a empresa/pessoa de fora. Esse contrato é a forma de você comprovar a origem e a legalidade do dinheiro que você está recebendo.
 
-# Impostos
+## Impostos
 
 O que você vai pagar de imposto vai depender da forma como você foi contratado, isto é, se foi via pessoa física ou jurídica. Não vou entrar na discussão da legalidade de você usar uma pessoa jurídica, sugiro que pesquise, consulte um bom advogado tributarista antes de tomar uma decisão. Não se esqueça de considerar os custos de contabilidade se você optar por abrir uma empresa.
 
@@ -30,7 +30,7 @@ Pessoa Jurídica: Nesse caso os impostos podem variar bastante de acordo com o t
 
 Dependendo do seu município você ainda pode contar com isenção de ISS. Porém para ter essa isenção é necessário que exista no seu contrato uma cláusula de não verificação em território nacional.
 
-# Siscoserv
+## Siscoserv
 
 Recentemente o Governo Federal criou um [Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv)](http://www.desenvolvimento.gov.br/sitio/interna/interna.php?area=4&menu=2234) que introduziu mais uma obrigação a ser cumprida por Pessoas Físicas e Jurídicas que exportam serviços para o exterior.
 
@@ -38,13 +38,13 @@ Esse obrigação não se trata de mais um imposto, é apenas uma conjunto de inf
 
 **Atenção**, as multas pelo não cumprimento e/ou atraso dessa obrigação são altas e você não perde nem 10 minutos por mês fazendo essa declaração.
 
-# PayPal
+## PayPal
 
 Muita gente me pergunta sobre receber via PayPal e a minha recomendação é para que você **não** faça isso. O PayPal não é banco e possui suas próprias regras e estas não são muito claras. Resista a tentação da simplicidade deles, você pode ter várias dores de cabeça.
 
 Conheço duas pessoas que tiveram as contas canceladas (suspeita de atividades ilegais) e que nunca conseguiram recuperar o dinheiro que estava lá. Uma delas tinha 15 mil dólares na conta, já enviou fax com contrato, uma infinidade de documentos e até hoje não teve nenhuma resposta deles.
 
-# Escolha do banco
+## Escolha do banco
 
 Essa é uma pergunta bastante recorrente e a resposta é que não existe um banco que seja maravilhoso e no início você vai ter bastante trabalho. Na prática são três coisas que fazem a escolha do banco ser importante: cotação do dólar, tarifa de operação e o processo.
 
@@ -60,7 +60,7 @@ O [Banco Rendimento](http://www.rendimento.com.br/) também trabalha com uma tax
 
 Como vocês podem ver, cada banco tem um procedimento totalmente diferente e você deve analisar qual que te atende melhor. No meu caso o mais importante é não precisar sair de casa, se eu puder fazer tudo de casa eu até aceito uma cotação ruim e/ou uma tarifa mais alta.
 
-# O fluxo de recebimento
+## O fluxo de recebimento
 
 1. Envio da invoice (ver detalhes abaixo)
 2. Recebimento da Wire
@@ -69,18 +69,18 @@ Como vocês podem ver, cada banco tem um procedimento totalmente diferente e voc
 5. Envio das informações do Siscoserv
 6. Envio da nota fiscal e do boleto de cambio para o contador (no caso de PJ)
 
-# Nota Fiscal (no caso de PJ)
+## Nota Fiscal (no caso de PJ)
 
 O processo de emissão da nota fiscal é bem parecido com o da prestação de serviços para o Brasil. O único detalhe é que ela deve ser emitida no dia do fechamento de contrato de cambio e com o valor creditado em reais na conta corrente da empresa. Você deve consultar o seu contador para saber os detalhes da emissão da nota.
 
 A nota fiscal não tem nenhum valor da a empresa de fora, não há necessidade de envia-la.
 
-# Invoice
+## Invoice
 
 A [invoice](http://en.wikipedia.org/wiki/Invoice) é um tipo de fatura. Não existe nenhum mistério em gerar invoices, o único detalhe é que a numeração deverá ser única.
 
 Você pode usar até o Word para gerar esse documento. Eu utilizo e recomendo o [Blinksale](http://www.blinksale.com/).
 
-# Mais informações
+## Mais informações
 
 Eu e o Caffo, gravamos uma série no Grok Podcast falando sobre como é trabalhar remotamente para empresas no exterior, para quem se interessar: ["Trabalho Remoto – Parte 1 de 5"](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
