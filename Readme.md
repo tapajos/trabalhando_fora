@@ -4,9 +4,9 @@ Praticamente toda semana eu e o [Caffo](http://twitter.com/caffo) recebemos emai
 
 Normalmente as perguntas são bem parecidas, mas mesmo fazendo um "copy and paste" acabo demorando para responder. Sei que isso é bem ruim para quem manda o email, mas até então era o melhor que eu podia fazer. Outro dia o [Caffo](http://twitter.com/caffo) me deu a ideia de escrever um FAQ/post sobre isso e resolvi que esse seria o meu presente de Natal para a comunidade de desenvolvedores.
 
-Como esse artigo é de um desenvolvedor para outros desenvolvedores acho que não existe lugar melhor para publicar do que no [GitHub](http://github.com). Inicialmente eu pensei em por num [gist](http://gist.github.com) mas acho que um repositório torna a colaboração mais fácil. Sinta-se a vontade para mandar correções e/ou complementar as minhas informações.
+Como esse artigo é de um desenvolvedor para outros desenvolvedores acho que não existe lugar melhor para publicar do que no [GitHub](http://github.com/tapajos/trabalhando_fora). Para fazer essa [página bonitinha](http://tapajos.me/trabalhando_fora) estamos usando o [DocumentUp](http://documentup.com/). Se quiser contribuir sugiro dar uma lida nas dicas de formatação.
 
-Tentei responder as perguntas mais frequentes e provavelmente muitas dúvidas foram esquecidas. Você pode usar o Issues para deixar sua dúvida, vou tentar responder o mais rápido possível.
+Tentei responder as perguntas mais frequentes e provavelmente muitas dúvidas foram esquecidas. Você pode me enviar suas [dúvidas](https://github.com/tapajos/trabalhando_fora/issues) e vou tentar responder o mais rápido possível.
 
 ## Disclaimer
 
