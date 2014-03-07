@@ -6,7 +6,7 @@ Normalmente as perguntas são bem parecidas, mas mesmo fazendo um "copy and past
 
 Como esse artigo é de um desenvolvedor para outros desenvolvedores acho que não existe lugar melhor para publicar do que no [GitHub](http://github.com/tapajos/trabalhando_fora). Para fazer essa [página bonitinha](http://tapajos.me/trabalhando_fora) estamos usando o [DocumentUp](http://documentup.com/). Se quiser contribuir sugiro dar uma lida nas dicas de formatação.
 
-Tentei responder as perguntas mais frequentes e provavelmente muitas dúvidas foram esquecidas. Você pode me enviar suas [dúvidas](https://github.com/tapajos/trabalhando_fora/issues) e vou tentar responder o mais rápido possível.
+Tentei responder as perguntas mais frequentes mas provavelmente muitas dúvidas foram esquecidas. Você pode me enviar suas [dúvidas](https://github.com/tapajos/trabalhando_fora/issues) e vou tentar responder o mais rápido possível.
 
 ## Disclaimer
 
