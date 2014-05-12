@@ -73,7 +73,7 @@ Como vocês podem ver, cada banco tem um procedimento totalmente diferente e voc
 
 O processo de emissão da nota fiscal é bem parecido com o da prestação de serviços para o Brasil. O único detalhe é que ela deve ser emitida no dia do fechamento de contrato de cambio e com o valor creditado em reais na conta corrente da empresa. Você deve consultar o seu contador para saber os detalhes da emissão da nota.
 
-A nota fiscal não tem nenhum valor da a empresa de fora, não há necessidade de envia-la.
+A nota fiscal não tem nenhum valor para a empresa de fora, não há necessidade de envia-la.
 
 ## Invoice
 
