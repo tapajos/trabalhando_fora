@@ -36,7 +36,7 @@ Recentemente o Governo Federal criou um [Sistema Integrado de Comércio Exterior
 
 Esse obrigação não se trata de mais um imposto, é apenas uma conjunto de informações que devem ser enviadas a cada remessa recebida do exterior.
 
-**Atenção**, as multas pelo não cumprimento e/ou atraso dessa obrigação são altas e você não perde nem 10 minutos por mês fazendo essa declaração. Vale ressaltar que será necessária a utlização de um [e-CPF](http://www.receita.fazenda.gov.br/atendvirtual/orientacoes/conceitobasico.htm#Certificado Digital e-CPF ou e-CNPJ) para acesso ao sistema.
+**Atenção**, as multas pelo não cumprimento e/ou atraso dessa obrigação são altas e você não perde nem 10 minutos por mês fazendo essa declaração. Vale ressaltar que será necessária a utilização de um [e-CPF](http://www.receita.fazenda.gov.br/atendvirtual/orientacoes/conceitobasico.htm#Certificado Digital e-CPF ou e-CNPJ) para acesso ao sistema.
 
 ## PayPal
 
