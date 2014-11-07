@@ -10,7 +10,7 @@ Tentei responder as perguntas mais frequentes mas provavelmente muitas dúvidas 
 
 ## Disclaimer
 
-Esse artigo foi escrito baseado na minha experiência trabalhando com exportação de software desde 2008. As coisas mudam com uma certa frequência e não estou assumindo nenhum compromisso de manter esse artigo atualizado.
+Esse artigo foi escrito baseado na minha experiência trabalhando com exportação de software desde 2008 e de [outros colaboradores](https://github.com/tapajos/trabalhando_fora/graphs/contributors). As coisas mudam com uma certa frequência e não estou assumindo nenhum compromisso de manter esse artigo atualizado.
 
 Eu não sou contador, não sou advogado tributarista e nem especialista em comércio exterior. Não tenho nenhuma responsabilidade por qualquer problema que você venha a ter. Minha recomendação é que você procure profissionais competentes e de sua confiança para te orientar.
 
@@ -59,6 +59,8 @@ Eu estava bem satisfeito com o Itaú até que eles fizeram umas mudanças no set
 O [Banco Rendimento](http://www.rendimento.com.br/) também trabalha com uma taxa fixa por operação e possui uma cotação bem competitiva. O processo é bem rápido, basta ligar no setor de cambio e solicitar o fechamento. Na hora o operador te envia por email o boleto de cambio e você pode assinar digitalmente ([eu faço isso usando o Preview do Mac](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2012/09/como-assinar-pdfs-no-mac-os-x-com-o-aplicativo-preview.html)) e retornar por email junto com a invoice. Feito isso eles verificam e fazem o pagamento em poucas horas. Para agilizar eu solicito sempre que o operador aguarde na linha enquanto assino e retorno tudo. Com isso ele verifica tudo e já libera o pagamento na hora.
 
 Como vocês podem ver, cada banco tem um procedimento totalmente diferente e você deve analisar qual que te atende melhor. No meu caso o mais importante é não precisar sair de casa, se eu puder fazer tudo de casa eu até aceito uma cotação ruim e/ou uma tarifa mais alta.
+
+**Atenção**, não adianta pedir a sua empresa para fazer a Wire transfer em reais, a operação de cambio será necessária para a liberação da quantia transferida.
 
 ## O fluxo de recebimento
 
