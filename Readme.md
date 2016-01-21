@@ -26,7 +26,7 @@ O que você vai pagar de imposto vai depender da forma como você foi contratado
 
 Pessoa Física: Vai pagar apenas o Imposto de Renda normal, de acordo com a tabela vigente.
 
-Pessoa Jurídica: Nesse caso os impostos podem variar bastante de acordo com o tipo da sua empresa e a sua localização. Se a sua empresa for cadastrada no Simples você irá pagar os impostos como se tivesse prestando serviço no Brasil. Caso sua empresa seja de Lucro Presumido você pode usufruir da isenção de PIS e Cofins existente para serviços de exportação de software conforme IN-SRF 247 Art. 46 de 21/11/2012.
+Pessoa Jurídica: Nesse caso os impostos podem variar bastante de acordo com o tipo da sua empresa e a sua localização. Se a sua empresa for cadastrada no Simples você irá pagar os impostos como se tivesse prestando serviço no Brasil. Caso sua empresa seja de Lucro Presumido você pode usufruir da isenção de PIS e Cofins existente para serviços de exportação de software conforme [IN-SRF 247 Art. 46 de 21/11/2002](http://www.receita.fazenda.gov.br/PessoaJuridica/PisPasepCofins/IncidImunIsencoes.htm#Isenções).
 
 Dependendo do seu município você ainda pode contar com isenção de ISS. Porém para ter essa isenção é necessário que exista no seu contrato uma cláusula de não verificação em território nacional.
 
