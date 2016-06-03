@@ -66,6 +66,8 @@ Eu estava bem satisfeito com o Itaú até que eles fizeram umas mudanças no set
 
 O [Banco Rendimento](http://www.rendimento.com.br/) também trabalha com uma taxa fixa por operação e possui uma cotação bem competitiva. O processo é bem rápido, basta ligar no setor de cambio e solicitar o fechamento. Na hora o operador te envia por email o boleto de cambio. Atualmente você só precisa assinar digitalmente ([eu faço isso usando o Preview do Mac](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2012/09/como-assinar-pdfs-no-mac-os-x-com-o-aplicativo-preview.html)) para ordens acima de 10k USD. Independente do valor você deverá enviar enviar a invoice por e-mail para o operador. Feito isso eles verificam e fazem o pagamento em poucas horas. Para agilizar eu solicito sempre que o operador aguarde na linha enquanto assino e retorno tudo. Com isso ele verifica tudo e já libera o pagamento na hora.
 
+Recentemente o Banco Rendimento separou os clientes grandes dos clientes pequenos e transferiu esses pequenos para a Cotação, uma outra empresa do grupo. Continua a mesma coisa mas com outro nome.
+
 Como vocês podem ver, cada banco tem um procedimento totalmente diferente e você deve analisar qual que te atende melhor. No meu caso o mais importante é não precisar sair de casa, se eu puder fazer tudo de casa eu até aceito uma cotação ruim e/ou uma tarifa mais alta.
 
 **Atenção**, não adianta pedir a sua empresa para fazer a Wire transfer em reais, a operação de cambio será necessária para a liberação da quantia transferida.
