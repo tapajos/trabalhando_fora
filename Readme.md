@@ -14,8 +14,6 @@ Esse artigo foi escrito baseado na minha experiência trabalhando com exportaç�
 
 Eu não sou contador, não sou advogado tributarista e nem especialista em comércio exterior. Não tenho nenhuma responsabilidade por qualquer problema que você venha a ter. Minha recomendação é que você procure profissionais competentes e de sua confiança para te orientar.
 
-Se você não conhece nenhum advogado nessa área eu recomendo o Mauro Abdalla (21) 98775-7676.
-
 ## Contratação
 
 Só existe uma regra: TENHA UM CONTRATO entre você e a empresa/pessoa de fora. Esse contrato é a forma de você comprovar a origem e a legalidade do dinheiro que você está recebendo.
