@@ -1,8 +1,8 @@
 # Descomplicando o trabalhar para fora
 
-Praticamente toda semana eu e o [Caffo](http://twitter.com/caffo) recebemos emails com dúvidas de pessoas que estão planejando ou começando a trabalhar com empresas no exterior. Normalmente eu tento responder rapidamente porém com a correria do trabalho e da vida pessoal nem sempre isso é possível.
+Praticamente toda semana eu e o [Caffo] recebemos emails com dúvidas de pessoas que estão planejando ou começando a trabalhar com empresas no exterior. Normalmente eu tento responder rapidamente porém com a correria do trabalho e da vida pessoal nem sempre isso é possível.
 
-Normalmente as perguntas são bem parecidas, mas mesmo fazendo um "copy and paste" acabo demorando para responder. Sei que isso é bem ruim para quem manda o email, mas até então era o melhor que eu podia fazer. Outro dia o [Caffo](http://twitter.com/caffo) me deu a ideia de escrever um FAQ/post sobre isso e resolvi que esse seria o meu presente de Natal para a comunidade de desenvolvedores.
+Normalmente as perguntas são bem parecidas, mas mesmo fazendo um "copy and paste" acabo demorando para responder. Sei que isso é bem ruim para quem manda o email, mas até então era o melhor que eu podia fazer. Outro dia o [Caffo] me deu a ideia de escrever um FAQ/post sobre isso e resolvi que esse seria o meu presente de Natal para a comunidade de desenvolvedores.
 
 Como esse artigo é de um desenvolvedor para outros desenvolvedores acho que não existe lugar melhor para publicar do que no [GitHub](http://github.com/tapajos/trabalhando_fora). Para fazer essa [página bonitinha](http://tapajos.me/trabalhando_fora) estamos usando o [DocumentUp](http://documentup.com/). Se quiser contribuir sugiro dar uma lida nas dicas de formatação.
 
@@ -54,21 +54,32 @@ Conheço duas pessoas que tiveram as contas canceladas (suspeita de atividades i
 
 Essa é uma pergunta bastante recorrente e a resposta é que não existe um banco que seja maravilhoso e no início você vai ter bastante trabalho. Na prática são três coisas que fazem a escolha do banco ser importante: cotação do dólar, tarifa de operação e o processo.
 
-Quando comecei a trabalhar prestando serviços para empresas de fora do Brasil eu tinha conta no Banco Real e a maior dificuldade que eu tive foi com o meu gerente que não fazia a menor idéia de como funcionava o setor de cambio. Na época a tarifa era fixa e a cotação não era das piores. O processo era todo feito por telefone e o dinheiro demorava em torno de 24h para ser creditado na conta. A parte mais chata era a necessidade de enviar o contrato de cambio assinado pelo correio dentro de um prazo de 30 dias.
+### Experiência antiga com o Real / Santander
+Quando comecei a trabalhar prestando serviços para empresas de fora do Brasil eu tinha conta no Banco Real e a maior dificuldade que eu tive foi com o meu gerente que não fazia a menor idéia de como funcionava o setor de câmbio. Na época a tarifa era fixa e a cotação não era das piores. O processo era todo feito por telefone e o dinheiro demorava em torno de 24h para ser creditado na conta. A parte mais chata era a necessidade de enviar o contrato de câmbio assinado pelo correio dentro de um prazo de 30 dias.
 
-Depois de operar com o Real por alguns anos resolvi mudar para o Itaú já que o Santander havia comprado o Real e estava tudo ficando muito confuso. No Itaú o processo foi muito mais tranquilo, minha gerente entendia tudo de cambio e em pouco mais de uma semana eu já estava com o cadastro feito e podendo receber. A tarifa do Itaú também é fixa porém a cotação nunca foi boa. A grande vantagem é no processo de "fechamento" de cambio, que acontece todo pela internet.
+### Experiência com o Itaú
+Depois de operar com o Real por alguns anos resolvi mudar para o Itaú já que o Santander havia comprado o Real e estava tudo ficando muito confuso. No Itaú o processo foi muito mais tranquilo, minha gerente entendia tudo de câmbio e em pouco mais de uma semana eu já estava com o cadastro feito e podendo receber. A tarifa do Itaú também é fixa porém a cotação nunca foi boa. A grande vantagem é no processo de "fechamento" de câmbio, que acontece todo pela internet.
 
 Através do Internet Bank é possível consultar uma cotação e iniciar a contratação. Uma vez preenchido tudo você recebe um email solicitando a documentação e poucos minutos após o envio chega o contrato e o pagamento acontece em algumas horas. É necessário entregar uma cópia assinada do contrato em uma agência em até 15 dias. Recentemente passou a ser possível assinar o contrato digitalmente com um e-cpf e com isso o processo se tornou 100% digital.
 
-Eu estava bem satisfeito com o Itaú até que eles fizeram umas mudanças no setor de cambio e tive alguns pequenos problemas. Não foi nada grave mas como o [Peleteiro](http://twitter.com/peleteiro) vivia falando do [Banco Rendimento](http://www.rendimento.com.br/) eu resolvi testar. O processo de abertura de conta de cambio foi bem simples, em 24h eu já tinha um cadastro básico e já podia receber até 36 mil reais. O cadastro completo foi liberado após o envio de alguns documentos assinados pelo correio.
+### Mudança pro Banco Rendimento / Cotação
+Eu estava bem satisfeito com o Itaú até que eles fizeram umas mudanças no setor de câmbio e tive alguns pequenos problemas. Não foi nada grave mas como o [Peleteiro](http://twitter.com/peleteiro) vivia falando do [Banco Rendimento](http://www.rendimento.com.br/) eu resolvi testar. O processo de abertura de conta de câmbio foi bem simples, em 24h eu já tinha um cadastro básico e já podia receber até 36 mil reais. O cadastro completo foi liberado após o envio de alguns documentos assinados pelo correio.
 
 O [Banco Rendimento](http://www.rendimento.com.br/) também trabalha com uma taxa fixa por operação e possui uma cotação bem competitiva. O processo é bem rápido, basta ligar no setor de cambio e solicitar o fechamento. Na hora o operador te envia por email o boleto de cambio. Atualmente você só precisa assinar digitalmente ([eu faço isso usando o Preview do Mac](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2012/09/como-assinar-pdfs-no-mac-os-x-com-o-aplicativo-preview.html)) para ordens acima de 10k USD. Independente do valor você deverá enviar enviar a invoice por e-mail para o operador. Feito isso eles verificam e fazem o pagamento em poucas horas. Para agilizar eu solicito sempre que o operador aguarde na linha enquanto assino e retorno tudo. Com isso ele verifica tudo e já libera o pagamento na hora.
 
 Recentemente o Banco Rendimento separou os clientes grandes dos clientes pequenos e transferiu esses pequenos para a [Cotação](https://cotacao.com.br/), uma outra empresa do grupo. Continua a mesma coisa mas com outro nome.
 
+### Experiência com bancos digitais
+O [igorsantos07] abriu conta no Banco do Brasil, por ter a menor taxa mensal de contas PJ nos bancos tradicionais. Minhas wire transfers seriam recebida por uma casa de câmbio, então eu não precisaria lidar com o setor cambial de banco algum - e correr o risco de enfrentar gerentes que desconhecessem processos, ou taxas absurdas.
+
+Neste ano de 2017 foram surgindo alguns bancos digitais com contas PJ. Nomeadamente, a Agiplan lançou o Agipag, que até o presente momento funciona somente via aplicativo e não permite o pagamento de impostos, o que dificulta um pouco o seu uso - pois não é muito interessante que você misture sua PF com a PJ pagando impostos fora da conta jurídica. Em resumo, cheguei a usá-lo para reduzir o custo de TED na minha conta do BB, mas não me senti contente ali.
+
+Pouco depois o Inter lançou a Conta Digital Pro (AKA conta PJ), e ela funciona muito bem. É possível fazer TEDs ilimitados, pagar boletos, impostos, e tem até cartão de crédito. Eles também fazem operações de câmbio, mas como eu (Igor) faço minhas operações via casa de câmbio, não sei detalhes sobre esta parte.
+
+### Resumo
 Como vocês podem ver, cada banco tem um procedimento totalmente diferente e você deve analisar qual que te atende melhor. No meu caso o mais importante é não precisar sair de casa, se eu puder fazer tudo de casa eu até aceito uma cotação ruim e/ou uma tarifa mais alta.
 
-**Atenção**, não adianta pedir a sua empresa para fazer a Wire transfer em reais, a operação de cambio será necessária para a liberação da quantia transferida.
+**Atenção**, não adianta pedir à sua empresa para fazer a Wire transfer em reais, a operação de câmbio será necessária para a liberação da quantia transferida.
 
 ## O fluxo de recebimento
 
@@ -93,4 +104,8 @@ Você pode usar até o Word para gerar esse documento. Eu utilizo e recomendo o 
 
 ## Mais informações
 
-Eu e o Caffo, gravamos uma série no Grok Podcast falando sobre como é trabalhar remotamente para empresas no exterior, para quem se interessar: ["Trabalho Remoto – Parte 1 de 5"](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
+Eu e o Caffo gravamos uma série no Grok Podcast falando sobre como é trabalhar remotamente para empresas no exterior, para quem se interessar: ["Trabalho Remoto – Parte 1 de 5"](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
+
+
+[caffo]: http://twitter.com/caffo
+[igorsantos07]: http://igorsantos.com.br
