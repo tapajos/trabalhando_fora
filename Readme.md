@@ -70,6 +70,15 @@ Como vocês podem ver, cada banco tem um procedimento totalmente diferente e voc
 
 **Atenção**, não adianta pedir à sua empresa para fazer a Wire transfer em reais, a operação de câmbio será necessária para a liberação da quantia transferida.
 
+### Casas de Câmbio
+_Disclaimer: esta é uma adição de contribuinte, que não reflete a opinião e experiência do autor original._
+
+Outra forma de fazer a operação cambial, que possivelmente terá cotações e taxas mais atraentes do que as oferecidas pelos bancos comuns do mercado, é abrir uma conta em uma casa de câmbio.
+
+Na Toptal a casa de câmbio preferida dos brasileiros é a B&T. Após a abertura da conta eles te darão os dados necessários para que você repasse ao seu cliente para o envio da wire transfer. A partir daí, em um dia útil ou dois a casa de câmbio receberá a quantia e te avisa, por Skype, do recebimento da mesma. Você pode aguardar o melhor dia/momento para fechar a operação, dado que o câmbio que te oferecem vai flutuar no decorrer do dia. A taxa que a B&T tem cobrado é um valor fixo em dólares + um pequeno spread. A partir do fechamento da operação, se este for feito até o meio-dia (horário em que o mercado de câmbio faz uma pausa, até as 13h30), o valor é creditado na conta-corrente da sua PJ no mesmo dia. Caso o câmbio seja feito durante a tarde (até as 15h30), o crédito ocorre no próximo dia útil.
+
+Eu ([igorsantos07](http://igorsantos.com.br)) tentei migrar para a MultiMoney, que me foi indicada por outro toptaler como sendo mais em conta. No entanto, a economia saiu pela culatra. Eles cobram uma taxa fixa levemente maior que a da B&T, mas o spread é ainda mais reduzido (menos de 1%), mas o atendimento é bem... complicado. O recebimento das wires levava pelo menos dois dias, e tanto lidando com o pessoal da agência de Blumenau quanto com a sede a comunicação era falha. Por fim, tive problemas em ambas as agências para pedir a [isenção de ISS](#impostos), sendo que na sede eles se recusaram e passaram por cima de mim, efetuando o câmbio mesmo sem a isenção. A lição de moral é clássica: às vezes, o barato sai caro.
+
 ## O fluxo de recebimento
 
 1. Envio da invoice (ver detalhes abaixo)
