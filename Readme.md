@@ -1,8 +1,8 @@
 # Descomplicando o trabalhar para fora
 
-Praticamente toda semana eu e o [Caffo](http://twitter.com/caffo) recebemos emails com dúvidas de pessoas que estão planejando ou começando a trabalhar com empresas no exterior. Normalmente eu tento responder rapidamente porém com a correria do trabalho e da vida pessoal nem sempre isso é possível.
+Praticamente toda semana eu e o [Caffo] recebemos emails com dúvidas de pessoas que estão planejando ou começando a trabalhar com empresas no exterior. Normalmente eu tento responder rapidamente porém com a correria do trabalho e da vida pessoal nem sempre isso é possível.
 
-Normalmente as perguntas são bem parecidas, mas mesmo fazendo um "copy and paste" acabo demorando para responder. Sei que isso é bem ruim para quem manda o email, mas até então era o melhor que eu podia fazer. Outro dia o [Caffo](http://twitter.com/caffo) me deu a ideia de escrever um FAQ/post sobre isso e resolvi que esse seria o meu presente de Natal para a comunidade de desenvolvedores.
+Normalmente as perguntas são bem parecidas, mas mesmo fazendo um "copy and paste" acabo demorando para responder. Sei que isso é bem ruim para quem manda o email, mas até então era o melhor que eu podia fazer. Outro dia o [Caffo] me deu a ideia de escrever um FAQ/post sobre isso e resolvi que esse seria o meu presente de Natal para a comunidade de desenvolvedores.
 
 Como esse artigo é de um desenvolvedor para outros desenvolvedores acho que não existe lugar melhor para publicar do que no [GitHub](http://github.com/tapajos/trabalhando_fora). Para fazer essa [página bonitinha](http://tapajos.me/trabalhando_fora) estamos usando o [DocumentUp](http://documentup.com/). Se quiser contribuir sugiro dar uma lida nas dicas de formatação.
 
@@ -77,7 +77,7 @@ Outra forma de fazer a operação cambial, que possivelmente terá cotações e 
 
 Na Toptal a casa de câmbio preferida dos brasileiros é a B&T. Após a abertura da conta eles te darão os dados necessários para que você repasse ao seu cliente para o envio da wire transfer. A partir daí, em um dia útil ou dois a casa de câmbio receberá a quantia e te avisa, por Skype, do recebimento da mesma. Você pode aguardar o melhor dia/momento para fechar a operação, dado que o câmbio que te oferecem vai flutuar no decorrer do dia. A taxa que a B&T tem cobrado é um valor fixo em dólares + um pequeno spread. A partir do fechamento da operação, se este for feito até o meio-dia (horário em que o mercado de câmbio faz uma pausa, até as 13h30), o valor é creditado na conta-corrente da sua PJ no mesmo dia. Caso o câmbio seja feito durante a tarde (até as 15h30), o crédito ocorre no próximo dia útil.
 
-Eu ([igorsantos07](http://igorsantos.com.br)) tentei migrar para a MultiMoney, que me foi indicada por outro toptaler como sendo mais em conta. No entanto, a economia saiu pela culatra. Eles cobram uma taxa fixa levemente maior que a da B&T, mas o spread é ainda mais reduzido (menos de 1%), mas o atendimento é bem... complicado. O recebimento das wires levava pelo menos dois dias, e tanto lidando com o pessoal da agência de Blumenau quanto com a sede a comunicação era falha. Por fim, tive problemas em ambas as agências para pedir a [isenção de ISS](#impostos), sendo que na sede eles se recusaram e passaram por cima de mim, efetuando o câmbio mesmo sem a isenção. A lição de moral é clássica: às vezes, o barato sai caro.
+Eu ([igorsantos07]) tentei migrar para a MultiMoney, que me foi indicada por outro toptaler como sendo mais em conta. No entanto, a economia saiu pela culatra. Eles cobram uma taxa fixa levemente maior que a da B&T, mas o spread é ainda mais reduzido (menos de 1%), mas o atendimento é bem... complicado. O recebimento das wires levava pelo menos dois dias, e tanto lidando com o pessoal da agência de Blumenau quanto com a sede a comunicação era falha. Por fim, tive problemas em ambas as agências para pedir a [isenção de ISS](#impostos), sendo que na sede eles se recusaram e passaram por cima de mim, efetuando o câmbio mesmo sem a isenção. A lição de moral é clássica: às vezes, o barato sai caro.
 
 ## O fluxo de recebimento
 
@@ -103,3 +103,8 @@ Você pode usar até o Word para gerar esse documento. Eu utilizo e recomendo o 
 ## Mais informações
 
 Eu e o Caffo gravamos uma série no Grok Podcast falando sobre como é trabalhar remotamente para empresas no exterior, para quem se interessar: ["Trabalho Remoto – Parte 1 de 5"](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
+
+
+[caffo]: http://twitter.com/caffo
+[igorsantos07]: http://igorsantos.com.br
+
