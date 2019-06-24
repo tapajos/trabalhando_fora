@@ -50,6 +50,28 @@ Muita gente me pergunta sobre receber via PayPal e a minha recomendação é par
 
 Conheço duas pessoas que tiveram as contas canceladas (suspeita de atividades ilegais) e que nunca conseguiram recuperar o dinheiro que estava lá. Uma delas tinha 15 mil dólares na conta, já enviou fax com contrato, uma infinidade de documentos e até hoje não teve nenhuma resposta deles.
 
+## Recebendo pagamentos com a Husky
+
+A [Husky](https://husky.io/?utm_source=remote) é um aplicativo que elimina a burocracia a um preço justo, o que é um benefício interessante em um mercado que sempre cobra os clientes com taxas variáveis.
+
+O suporte é um diferencial. O atendimento é muito rápido, sempre feito por chat dentro do próprio aplicativo, e se você precisar eles até te ligam para resolver seu problema. O ponto é que é difícil acontecer algum problema, mas se acontecer, eles vão resolver pra você. A empresa foi criada por dois programadores brasileiros que trabalhavam remoto e que ficaram indignados com a dificuldade de receber os pagamentos. Essa experiência pessoal deles se traduz na experiência oferecida pelo serviço.
+
+Em relação às taxas, a Husky chega a ser 3x mais barata que Paypal e bancos em geral: 4% do câmbio comercial. O grande diferencial aqui é que à medida que você indica o serviço para outras pessoas, a taxa vai diminuindo ainda mais. É possível não pagar nada (zero, de verdade, no câmbio comercial).
+
+Diferentemente das outras opções digitais, ela suporta pessoa jurídica facilmente e não tem limites de transação. Receber como pessoa jurídica é mais vantajoso porque você paga menos imposto de renda. Ao declarar o IR como Pessoa Física, você terá que pagar 27.5% de IR, enquanto que como PJ o imposto fica entre 6% a 17%, dependendo do CNAE da sua empresa.
+
+Além disso, não é necessário para a empresa que vai te fazer o pagamento também ter cadastro na Husky, já que quando você completa o cadastro eles criam uma Conta Bancária Internacional em seu nome, permitindo que você utilize essa mesma conta para receber de qualquer lugar do mundo. Portanto para a empresa é apenas uma transferência bancária comum (Wire Transfer).
+
+Outra característica útil é que a Husky pode depositar seu pagamento em qualquer banco aqui no Brasil. Isso permite que você continue utilizando a sua conta bancária atual.
+
+#### Como usar a Husky
+
+Você baixa o aplicativo e faz o cadastro. A Conta Bancária Internacional fica pronta na mesma hora, disponível lá no aplicativo, e inclusive por lá mesmo você pode avisar sobre a sua nova conta para a empresa que vai te pagar.
+
+Se for uma plataforma internacional, basta alterar na plataforma pra sua conta da Husky.
+
+Quando a transferência chega, você é notificado, e ela é automaticamente processada e enviada para sua conta no Brasil, já em Reais, eliminando a necessidade de "ligar para fechar o câmbio" ou qualquer outra preocupação. É um processo totalmente digital e transparente.
+
 ## Escolha do banco
 
 Essa é uma pergunta bastante recorrente e a resposta é que não existe um banco que seja maravilhoso e no início você vai ter bastante trabalho. Na prática são três coisas que fazem a escolha do banco ser importante: cotação do dólar, tarifa de operação e o processo.
