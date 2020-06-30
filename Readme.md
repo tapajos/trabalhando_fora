@@ -76,34 +76,19 @@ Se for uma plataforma internacional, basta alterar na plataforma pra sua conta d
 
 Quando a transferência chega, você é notificado, e ela é automaticamente processada e enviada para sua conta no Brasil, já em Reais, eliminando a necessidade de "ligar para fechar o câmbio" ou qualquer outra preocupação. É um processo totalmente digital e transparente.
 
-## Escolha do banco
+## Escolha do banco ou corretora
 
 Essa é uma pergunta bastante recorrente e a resposta é que não existe um banco que seja maravilhoso e no início você vai ter bastante trabalho. Na prática são três coisas que fazem a escolha do banco ser importante: cotação do dólar, tarifa de operação e o processo.
 
-Quando comecei a trabalhar prestando serviços para empresas de fora do Brasil eu tinha conta no Banco Real e a maior dificuldade que eu tive foi com o meu gerente que não fazia a menor idéia de como funcionava o setor de câmbio. Na época a tarifa era fixa e a cotação não era das piores. O processo era todo feito por telefone e o dinheiro demorava em torno de 24h para ser creditado na conta. A parte mais chata era a necessidade de enviar o contrato de câmbio assinado pelo correio dentro de um prazo de 30 dias.
-
-Depois de operar com o Real por alguns anos resolvi mudar para o Itaú já que o Santander havia comprado o Real e estava tudo ficando muito confuso. No Itaú o processo foi muito mais tranquilo, minha gerente entendia tudo de câmbio e em pouco mais de uma semana eu já estava com o cadastro feito e podendo receber. A tarifa do Itaú também é fixa porém a cotação nunca foi boa. A grande vantagem é no processo de "fechamento" de câmbio, que acontece todo pela internet.
-
-Através do Internet Bank é possível consultar uma cotação e iniciar a contratação. Uma vez preenchido tudo você recebe um email solicitando a documentação e poucos minutos após o envio chega o contrato e o pagamento acontece em algumas horas. É necessário entregar uma cópia assinada do contrato em uma agência em até 15 dias. Recentemente passou a ser possível assinar o contrato digitalmente com um e-cpf e com isso o processo se tornou 100% digital.
-
-Eu estava bem satisfeito com o Itaú até que eles fizeram umas mudanças no setor de câmbio e tive alguns pequenos problemas. Não foi nada grave mas como o [Peleteiro](http://twitter.com/peleteiro) vivia falando do [Banco Rendimento](http://www.rendimento.com.br/) eu resolvi testar. O processo de abertura de conta de câmbio foi bem simples, em 24h eu já tinha um cadastro básico e já podia receber até 36 mil reais. O cadastro completo foi liberado após o envio de alguns documentos assinados pelo correio.
-
-O [Banco Rendimento](http://www.rendimento.com.br/) também trabalha com uma taxa fixa por operação e possui uma cotação bem competitiva. O processo é bem rápido, basta ligar no setor de câmbio e solicitar o fechamento. Na hora o operador te envia por email o boleto de câmbio. Atualmente você só precisa assinar digitalmente ([eu faço isso usando o Preview do Mac](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2012/09/como-assinar-pdfs-no-mac-os-x-com-o-aplicativo-preview.html)) para ordens acima de 10k USD. Independente do valor você deverá enviar enviar a invoice por e-mail para o operador. Feito isso eles verificam e fazem o pagamento em poucas horas. Para agilizar eu solicito sempre que o operador aguarde na linha enquanto assino e retorno tudo. Com isso ele verifica tudo e já libera o pagamento na hora.
-
-Recentemente o Banco Rendimento separou os clientes grandes dos clientes pequenos e transferiu esses pequenos para a [Cotação](https://cotacao.com.br/), uma outra empresa do grupo. Continua a mesma coisa mas com outro nome.
-
-Como vocês podem ver, cada banco tem um procedimento totalmente diferente e você deve analisar qual que te atende melhor. No meu caso o mais importante é não precisar sair de casa, se eu puder fazer tudo de casa eu até aceito uma cotação ruim e/ou uma tarifa mais alta.
-
-**Atenção**, não adianta pedir à sua empresa para fazer a Wire transfer em reais, a operação de câmbio será necessária para a liberação da quantia transferida.
-
-### Casas de Câmbio
-_Disclaimer: esta é uma adição de contribuinte, que não reflete a opinião e experiência do autor original._
+Cada banco tem um procedimento totalmente diferente e você deve analisar qual que te atende melhor. No meu caso o mais importante é não precisar sair de casa, se eu puder fazer tudo de casa eu até aceito uma cotação ruim e/ou uma tarifa mais alta.
 
 Outra forma de fazer a operação cambial, que possivelmente terá cotações e taxas mais atraentes do que as oferecidas pelos bancos comuns do mercado, é abrir uma conta em uma casa de câmbio.
 
 Na Toptal a casa de câmbio preferida dos brasileiros é a B&T. Após a abertura da conta eles te darão os dados necessários para que você repasse ao seu cliente para o envio da wire transfer. A partir daí, em um dia útil ou dois a casa de câmbio receberá a quantia e te avisa, por Skype, do recebimento da mesma. Você pode aguardar o melhor dia/momento para fechar a operação, dado que o câmbio que te oferecem vai flutuar no decorrer do dia. A taxa que a B&T tem cobrado é um valor fixo em dólares + um pequeno spread. A partir do fechamento da operação, se este for feito até o meio-dia (horário em que o mercado de câmbio faz uma pausa, até as 13h30), o valor é creditado na conta-corrente da sua PJ no mesmo dia. Caso o câmbio seja feito durante a tarde (até as 15h30), o crédito ocorre no próximo dia útil.
 
 Eu ([igorsantos07]) tentei migrar para a MultiMoney, que me foi indicada por outro toptaler como sendo mais em conta. No entanto, a economia saiu pela culatra. Eles cobram uma taxa fixa levemente maior que a da B&T, mas o spread é ainda mais reduzido (menos de 1%), mas o atendimento é bem... complicado. O recebimento das wires levava pelo menos dois dias, e tanto lidando com o pessoal da agência de Blumenau quanto com a sede a comunicação era falha. Por fim, tive problemas em ambas as agências para pedir a [isenção de ISS](#impostos), sendo que na sede eles se recusaram e passaram por cima de mim, efetuando o câmbio mesmo sem a isenção. A lição de moral é clássica: às vezes, o barato sai caro.
+
+**Atenção**, não adianta pedir à sua empresa para fazer a Wire transfer em reais, a operação de câmbio será necessária para a liberação da quantia transferida.
 
 ## O fluxo de recebimento
 
