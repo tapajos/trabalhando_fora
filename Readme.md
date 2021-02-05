@@ -32,22 +32,6 @@ Nesse caso os impostos podem variar bastante de acordo com o tipo da sua empresa
 
 Dependendo do seu município você ainda pode contar com isenção de ISS. Porém, para ter essa isenção, é necessário que exista no seu contrato uma cláusula de não verificação em território nacional.
 
-## Siscoserv
-
-Recentemente o Governo Federal criou um [Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv)](http://www.desenvolvimento.gov.br/sitio/interna/interna.php?area=4&menu=2234) que introduziu mais uma obrigação a ser cumprida por Pessoas Físicas e Jurídicas que exportam serviços para o exterior.
-
-Esse obrigação não se trata de mais um imposto, é apenas uma conjunto de informações que devem ser enviadas a cada remessa recebida do exterior.
-
-**Atenção**, as multas pelo não cumprimento e/ou atraso dessa obrigação são altas e você não perde nem 10 minutos por mês fazendo essa declaração. Vale ressaltar que será necessária a utilização de um [e-CPF](http://www.receita.fazenda.gov.br/atendvirtual/orientacoes/conceitobasico.htm#Certificado Digital e-CPF ou e-CNPJ) para acesso ao sistema.
-
-**Atenção**, não existe mais a obrigação de enviar essas informações em alguns casos, conforme a [Portaria Conjunta RFB/SCS Nº 1908/2012](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=38371)
-
-> Art. 2º Ficam dispensadas do registro de que trata o caput do art. 1º, nas operações que não tenham utilizado mecanismos de apoio ao comércio exterior de serviços, de intangíveis e demais operações de que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:
-
-> I - as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional) e os Microempreendedores Individuais (MEI) de que trata o § 1º do art. 18-A da Lei Complementar nº 123, de 14 de dezembro de 2006; e
-
-> II - as pessoas físicas residentes no País que, em nome individual, não explorem, habitual e profissionalmente, qualquer atividade econômica de natureza civil ou comercial, com o fim especulativo de lucro, desde que não realizem operações em valor superior a US$ 30.000,00 (trinta mil dólares dos Estados Unidos da América), ou o equivalente em outra moeda, no mês. (Redação dada pelo(a) Portaria Conjunta RFB SCS nº 1268, de 06 de setembro de 2013)
-
 ## PayPal
 
 Muita gente me pergunta sobre receber via PayPal e a minha recomendação é para que você **não** faça isso. O PayPal não é banco e possui suas próprias regras e estas não são muito claras. Resista a tentação da simplicidade deles, você pode ter várias dores de cabeça.
