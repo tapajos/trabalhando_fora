@@ -54,9 +54,9 @@ Outra característica útil é que a Husky pode depositar seu pagamento em qualq
 
 #### Como usar a Husky
 
-Você baixa o aplicativo e faz o cadastro. A Conta Bancária Internacional fica pronta na mesma hora, disponível lá no aplicativo, e inclusive por lá mesmo você pode avisar sobre a sua nova conta para a empresa que vai te pagar.
+Você baixa o aplicativo e faz o cadastro. A Conta Bancária Internacional fica pronta na mesma hora, disponível lá no aplicativo, e por lá mesmo você pode avisar sobre a sua nova conta para a empresa que vai te pagar.
 
-Se for uma plataforma internacional, basta alterar na plataforma pra sua conta da Husky.
+Se for uma plataforma internacional, basta alterar na plataforma, pra sua conta da Husky.
 
 Quando a transferência chega, você é notificado, e ela é automaticamente processada e enviada para sua conta no Brasil, já em Reais, eliminando a necessidade de "ligar para fechar o câmbio" ou qualquer outra preocupação. É um processo totalmente digital e transparente.
 
