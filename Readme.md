@@ -1,22 +1,22 @@
 # Descomplicando o trabalhar para fora
 
-Praticamente toda semana eu e o [Caffo] recebemos emails com dúvidas de pessoas que estão planejando ou começando a trabalhar com empresas no exterior. Normalmente eu tento responder rapidamente porém com a correria do trabalho e da vida pessoal nem sempre isso é possível.
+Praticamente toda semana, eu e o [Caffo] recebemos emails com dúvidas de pessoas que estão planejando ou começando a trabalhar com empresas no exterior. Normalmente eu tento responder rapidamente porém, com a correria do trabalho e da vida pessoal, nem sempre isso é possível.
 
 Normalmente as perguntas são bem parecidas, mas mesmo fazendo um "copy and paste" acabo demorando para responder. Sei que isso é bem ruim para quem manda o email, mas até então era o melhor que eu podia fazer. Outro dia o [Caffo] me deu a ideia de escrever um FAQ/post sobre isso e resolvi que esse seria o meu presente de Natal para a comunidade de desenvolvedores.
 
-Como esse artigo é de um desenvolvedor para outros desenvolvedores acho que não existe lugar melhor para publicar do que no [GitHub](http://github.com/tapajos/trabalhando_fora). Para fazer essa [página bonitinha](http://tapajos.me/trabalhando_fora) estamos usando o [DocumentUp](http://documentup.com/). Se quiser contribuir sugiro dar uma lida nas dicas de formatação.
+Como esse artigo é de um desenvolvedor para outros desenvolvedores, acho que não existe lugar melhor para publicar do que no [GitHub](http://github.com/tapajos/trabalhando_fora). Para fazer essa [página bonitinha](http://tapajos.me/trabalhando_fora) estamos usando o [DocumentUp](http://documentup.com/). Se quiser contribuir sugiro dar uma lida nas dicas de formatação.
 
-Tentei responder as perguntas mais frequentes mas provavelmente muitas dúvidas foram esquecidas. Você pode me enviar suas [dúvidas](https://github.com/tapajos/trabalhando_fora/issues) e vou tentar responder o mais rápido possível.
+Tentei responder as perguntas mais frequentes mas, provavelmente muitas dúvidas foram esquecidas. Você pode me enviar suas [dúvidas](https://github.com/tapajos/trabalhando_fora/issues) e vou tentar responder o mais rápido possível.
 
 ## Disclaimer
 
 Esse artigo foi escrito baseado na minha experiência trabalhando com exportação de software desde 2008 e de [outros colaboradores](https://github.com/tapajos/trabalhando_fora/graphs/contributors). As coisas mudam com uma certa frequência e não estou assumindo nenhum compromisso de manter esse artigo atualizado.
 
-Eu não sou contador, não sou advogado tributarista e nem especialista em comércio exterior. Não tenho nenhuma responsabilidade por qualquer problema que você venha a ter. Minha recomendação é que você procure profissionais competentes e de sua confiança para te orientar.
+Não sou contador, advogado tributarista e nem especialista em comércio exterior. Não tenho nenhuma responsabilidade por qualquer problema que você venha a ter. Minha recomendação é que você procure profissionais competentes e de sua confiança para te orientar.
 
 ## Contratação
 
-Só existe uma regra: TENHA UM CONTRATO entre você e a empresa/pessoa de fora. Esse contrato é a forma de você comprovar a origem e a legalidade do dinheiro que você está recebendo.
+Só existe uma regra: **TENHA UM CONTRATO** entre você e a empresa/pessoa de fora. Esse contrato é a forma de você comprovar a origem e a legalidade do dinheiro que você está recebendo.
 
 ## Impostos
 
@@ -30,7 +30,7 @@ Na prática, funciona da mesma forma que uma empresa CLT faria por você - excet
 ### Pessoa Jurídica
 Nesse caso os impostos podem variar bastante de acordo com o tipo da sua empresa e a sua localização. Se a sua empresa for cadastrada no Simples você irá pagar os impostos como se tivesse prestando serviço no Brasil. Caso sua empresa seja de Lucro Presumido você pode usufruir da isenção de PIS e Cofins existente para serviços de exportação de software conforme [IN-SRF 247 Art. 46 de 21/11/2002](http://www.receita.fazenda.gov.br/PessoaJuridica/PisPasepCofins/IncidImunIsencoes.htm#Isenções).
 
-Dependendo do seu município você ainda pode contar com isenção de ISS. Porém, para ter essa isenção, é necessário que exista no seu contrato uma cláusula de não verificação em território nacional.
+Dependendo do seu município você ainda pode contar com isenção de ISS. Porém, para ter essa isenção é necessário que exista no seu contrato uma cláusula de não verificação em território nacional.
 
 ## PayPal
 
@@ -42,9 +42,9 @@ Conheço duas pessoas que tiveram as contas canceladas (suspeita de atividades i
 
 A [Husky](https://husky.io/?utm_source=remote) é um aplicativo que elimina a burocracia a um preço justo, o que é um benefício interessante em um mercado que sempre cobra os clientes com taxas variáveis.
 
-O suporte é um diferencial. O atendimento é muito rápido, sempre feito por chat dentro do próprio aplicativo, e se você precisar eles até te ligam para resolver seu problema. O ponto é que é difícil acontecer algum problema, mas se acontecer, eles vão resolver pra você. A empresa foi criada por dois programadores brasileiros que trabalhavam remoto e que ficaram indignados com a dificuldade de receber os pagamentos. Essa experiência pessoal deles se traduz na experiência oferecida pelo serviço.
+O suporte é um diferencial. O atendimento é muito rápido, sempre feito por chat dentro do próprio aplicativo, e se você precisar eles até te ligam para resolver seu problema. O ponto é que é difícil acontecer algum problema, mas se acontecer, eles vão resolver pra você. A empresa foi criada por dois desenvolvedores brasileiros que trabalhavam remotamente e que ficaram indignados com a dificuldade de receber os pagamentos. Essa experiência deles se traduz na experiência oferecida pelo serviço.
 
-Em relação às taxas, a Husky chega a ser 3x mais barata que Paypal e bancos em geral: 4% do câmbio comercial. O grande diferencial aqui é que à medida que você indica o serviço para outras pessoas, a taxa vai diminuindo ainda mais. É possível não pagar nada (zero, de verdade, no câmbio comercial).
+Em relação às taxas, a Husky chega a ser 3x mais barata que o Paypal e bancos em geral: 4% do câmbio comercial. O grande diferencial aqui é que à medida que você indica o serviço para outras pessoas, a taxa vai diminuindo ainda mais. É possível não pagar nada (zero, de verdade, no câmbio comercial).
 
 Diferentemente das outras opções digitais, ela suporta pessoa jurídica facilmente e não tem limites de transação. Receber como pessoa jurídica é mais vantajoso porque você paga menos imposto de renda. Ao declarar o IR como Pessoa Física, você terá que pagar 27.5% de IR, enquanto que como PJ o imposto fica entre 6% a 17%, dependendo do CNAE da sua empresa.
 
